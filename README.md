@@ -4,6 +4,6 @@ Task 11 🎯
 
 1. Create attractive GUI
 
-2.Make sure you implement other technologies if possible
+2. Make sure you implement other technologies if possible
 
-3.Show your creativity (Optional: Animations,Responsive UI,DB connection ,etc)
+3. Show your creativity (Optional: Animations,Responsive UI,DB connection ,etc)
